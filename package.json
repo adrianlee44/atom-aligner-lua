@@ -1,0 +1,25 @@
+{
+  "name": "aligner-lua",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "Lua support for aligner",
+  "keywords": [
+    "aligner",
+    "alignment",
+    "align",
+    "lua"
+  ],
+  "repository": "https://github.com/adrianlee44/atom-aligner-lua",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  },
+  "dependencies": {},
+  "providedServices": {
+    "aligner.provider": {
+      "versions": {
+        "1.0.0": "getProvider"
+      }
+    }
+  }
+}
