@@ -12,7 +12,7 @@
   "repository": "https://github.com/adrianlee44/atom-aligner-lua",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0"
+    "atom": ">=1.9.0"
   },
   "dependencies": {},
   "providedServices": {
